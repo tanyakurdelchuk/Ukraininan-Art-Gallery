@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ukrainian Art Gallery</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header>
+    <h1>Ukrainian Art Gallery</h1>
+  </header>
+
+  <main>
+    <section id="grid-section">
+
+      <div id="artists-grid" class="grid-5x3"></div>
+    </section>
+  </main>
+
+ 
+  <aside id="artist-panel" class="panel hidden" aria-hidden="true">
+    <button id="panel-close" class="icon-btn">
+      <img src="icons/close.png" alt="close">
+    </button>
+
+    <div class="panel-content">
+      <div class="panel-top">
+        <img id="panel-profile" class="profile-circle" src="" alt="atrist-photo">
+        <div class="artist-info">
+          <h2 id="panel-name"></h2>
+          <p id="panel-bio"></p>
+        </div>
+      </div>
+
+      <h3>Works</h3>
+      <div id="works-grid" class="grid-3x3"></div>
+    </div>
+  </aside>
+
+
+  <div id="work-fullscreen" class="fullscreen hidden" aria-hidden="true">
+    <button id="work-close" class="icon-btn">
+      <img src="icons/close white.png" alt="close">
+    </button>
+
+    <button id="nav-left" class="nav-btn left">
+      <img src="icons/left.png" alt="left">
+    </button>
+    <button id="nav-right" class="nav-btn right">
+      <img src="icons/right.png" alt="right">
+    </button>
+
+    <div class="work-content">
+      <img id="work-image" src="" alt="work">
+      <div class="work-meta">
+        <h2 id="work-title"></h2>
+        <p id="work-desc"></p>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

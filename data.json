@@ -1,0 +1,974 @@
+{
+  "artists": [
+    {
+      "id": "artist1",
+      "name": "Kazimir Malevich",
+      "bio": "Malevich was a pioneering avant-garde artist born in Kyiv and a founder of Suprematism. His geometric abstractions revolutionized modern art and influenced generations of artists worldwide.",
+      "preview": "images/Malevich/Kazimir Malevich Work.jpg",
+      "profile": "images/Malevich/Kazimir Malevich.jpg",
+      "works": [
+        {
+          "id":"a1w1",
+          "src":"images/Malevich/Black Square.jpg",
+          "title":"Black Square",
+          "description":"Iconic minimalist painting symbolizing pure abstraction."
+        },
+        {
+          "id":"a1w2",
+          "src":"images/Malevich/White on White.jpg",
+          "title":"White on White",
+          "description":"Subtle geometric forms pushing non-objective art to its limits."
+        },
+        {
+          "id":"a1w3",
+          "src":"images/Malevich/Black Circle.jpg",
+          "title":"Black Circle",
+          "description":"A study of form and void in stark abstraction."
+        },
+        {
+          "id":"a1w4",
+          "src":"images/Malevich/Suprematist Composition.jpg",
+          "title":"Suprematist Composition",
+          "description":"A complex arrangement of colored geometric shapes."
+        },
+        {
+          "id":"a1w5",
+          "src":"images/Malevich/Red Square.jpg",
+          "title":"Red Square",
+          "description":"A symbolic take on color and spiritual expression."
+        },
+        {
+          "id":"a1w6",
+          "src":"images/Malevich/18th Construction.jpg",
+          "title":"Suprematism. 18th Construction",
+          "description":"Dynamic relationships of planes and angles."
+        },
+        {
+          "id":"a1w7",
+          "src":"images/Malevich/Female Torso.jpg",
+          "title":"Female Torso",
+          "description":"Figurative work showing his transition from realism to abstraction."
+        },
+        {
+          "id":"a1w8",
+          "src":"images/Malevich/The Knife Grinder.jpg",
+          "title":"The Knife Grinder",
+          "description":"Cubo-Futurist depiction of movement."
+        },
+        {
+          "id":"a1w9",
+          "src":"images/Malevich/Suprematist Painting.jpg",
+          "title":"Suprematist Painting (Aeroplane Flying",
+          "description":"Suggests weightlessness through form."
+        }
+      ]
+    },
+
+
+    {
+      "id": "artist2",
+      "name": "Oleksandra Ekster",
+      "bio": "Ekster was a key figure in Ukrainian and European modernism, working in Cubo-Futurism and stage design. She blended bold color with dynamic movement and collaborated with avant-garde theaters.",
+      "preview": "images/Ekster/Oleksandra Ekster Work.jpg",
+      "profile": "images/Ekster/Oleksandra Ekster.jpg",
+      "works": [
+        {
+          "id":"a2w1",
+          "src":"images/Ekster/Color Construction.jpg",
+          "title":"Color Construction",
+          "description":"Vibrant intersecting planes."
+        },
+        {
+          "id":"a2w2",
+          "src":"images/Ekster/Cubo-Futurist Composition.jpg",
+          "title":"Cubo-Futurist Composition",
+          "description":"Explores rhythm and direction."
+        },
+        {
+          "id":"a2w3",
+          "src":"images/Ekster/Theatrical Costume Design.jpg",
+          "title":"Theatrical Costume Design",
+          "description":"Angular, experimental stage wear."
+        },
+        {
+          "id":"a2w4",
+          "src":"images/Ekster/City at Night.jpg",
+          "title":"City at Night",
+          "description":"Urban geometry in bright palettes."
+        },
+        {
+          "id":"a2w5",
+          "src":"images/Ekster/Woman with birds.jpg",
+          "title":"Woman with birds",
+          "description":"A dreamy figure surrounded by birds — half symbolic, half ornamental."
+        },
+        {
+          "id":"a2w6",
+          "src":"images/Ekster/Composition with Figures.jpg",
+          "title":"Composition with Figures",
+          "description":"Stylized bodies dissolved into geometry."
+        },
+        {
+          "id":"a2w7",
+          "src":"images/Ekster/Romeo and Juliet.jpg",
+          "title":"Set Design for “Romeo and Juliet” ",
+          "description":"Futuristic interpretation of classic drama."
+        },
+        {
+          "id":"a2w8",
+          "src":"images/Ekster/Spanish Dancer.jpg",
+          "title":"Spanish Dancer",
+          "description":"Dynamic movement in abstraction."
+        },
+        {
+          "id":"a2w9",
+          "src":"images/Ekster/Constructivist Stage Design.jpg",
+          "title":"Constructivist Stage Design",
+          "description":"Structured color-form relations."
+        }
+      ]
+    },
+
+
+    {
+      "id": "artist3",
+      "name": "Mykola Pymonenko",
+      "bio": "Pymonenko was a celebrated realist painter known for capturing Ukrainian rural life. His works convey warmth, detail, and strong emotional connection.",
+      "preview": "images/Pymonenko/Mykola Pymonenko Work.jpg",
+      "profile": "images/Pymonenko/Mykola Pymonenko.jpg",
+      "works": [
+        {
+          "id":"a3w1",
+          "src":"images/Pymonenko/Easter morning prayer in Malorosia.jpg",
+          "title":"Easter morning prayer in Malorosia",
+          "description":"The artist not only perfectly conveys the entire solemnity of the Easter event, but also depicts Ukrainian folk traditions with ethnographic accuracy."
+        },
+        {
+          "id":"a3w2",
+          "src":"images/Pymonenko/A Girl with a Pitcher.jpg",
+          "title":"A Girl with a Pitcher",
+          "description":"Peaceful rural portrait."
+        },
+        {
+          "id":"a3w3",
+          "src":"images/Pymonenko/Evening.jpg",
+          "title":"Evening",
+          "description":"Soft light capturing quiet dusk."
+        },
+        {
+          "id":"a3w4",
+          "src":"images/Pymonenko/In the Field.jpg",
+          "title":"In the Field ",
+          "description":"Agricultural life portrayed with sincerity."
+        },
+        {
+          "id":"a3w5",
+          "src":"images/Pymonenko/Haymaking.jpg",
+          "title":"Haymaking",
+          "description":"Depicts seasonal work in the village."
+        },
+        {
+          "id":"a3w6",
+          "src":"images/Pymonenko/Flower-girl.jpg",
+          "title":"Flower-girl",
+          "description":"Young women celebrating springtime."
+        },
+        {
+          "id":"a3w7",
+          "src":"images/Pymonenko/Rural Yard.jpg",
+          "title":"Rural Yard",
+          "description":"Everyday domestic scene."
+        },
+        {
+          "id":"a3w8",
+          "src":"images/Pymonenko/Wedding Train.jpg",
+          "title":"Wedding Train",
+          "description":"A bright festive procession."
+        },
+        {
+          "id":"a3w9",
+          "src":"images/Pymonenko/At the Market.jpg",
+          "title":"At the Market",
+          "description":"Lively trade atmosphere."
+        }
+      ]
+    },
+
+
+    {
+      "id": "artist4",
+      "name": "Maria Prymachenko",
+      "bio": "Prymachenko was a renowned folk artist whose fantastical creatures and patterns represent Ukrainian cultural imagination. Her vivid works often combine humor and symbolism.",
+      "preview": "images/Prymachenko/Maria Prymachenko Work.jpg",
+      "profile": "images/Prymachenko/Maria Prymachenko.jpg",
+      "works": [
+        {
+          "id":"a4w1",
+          "src":"images/Prymachenko/Beast with a Blue Head.jpg",
+          "title":"Beast with a Blue Head",
+          "description":"Bright mythical creature."
+        },
+        {
+          "id":"a4w2",
+          "src":"images/Prymachenko/Forest Beast.jpg",
+          "title":"Forest Beast",
+          "description":"Guardian-like figure with folk motifs."
+        },
+        {
+          "id":"a4w3",
+          "src":"images/Prymachenko/Happy Cow.jpg",
+          "title":"Happy Cow",
+          "description":"Playful image in rich patterning."
+        },
+        {
+          "id":"a4w4",
+          "src":"images/Prymachenko/A Lion Has Grown Wings.jpg",
+          "title":"A Lion Has Grown Wings",
+          "description":"Symbolic hybrid creature."
+        },
+        {
+          "id":"a4w5",
+          "src":"images/Prymachenko/Flower of Joy.jpg",
+          "title":"Flower of Joy",
+          "description":"Decorative floral composition."
+        },
+        {
+          "id":"a4w6",
+          "src":"images/Prymachenko/Fantastic Bird.jpg",
+          "title":"Fantastic Bird",
+          "description":"Vivid folkloric fantasy."
+        },
+        {
+          "id":"a4w7",
+          "src":"images/Prymachenko/The Sun Laughs.jpg",
+          "title":"The Sun Laughs",
+          "description":"Cheerful anthropomorphic sun."
+        },
+        {
+          "id":"a4w8",
+          "src":"images/Prymachenko/Blue Beast with Horns.jpg",
+          "title":"Blue Beast with Horns",
+          "description":"Energetic and whimsical."
+        },
+        {
+          "id":"a4w9",
+          "src":"images/Prymachenko/Red Flowers.jpg",
+          "title":"Red Flowers",
+          "description":"Bold stylized blooms."
+        }
+      ]
+    },
+
+
+    {
+      "id": "artist5",
+      "name": "Taras Shevchenko",
+      "bio": "Besides being a national poet, Shevchenko was an accomplished painter and academic realist. His drawings and watercolors capture history, landscape, and social themes.",
+      "preview": "images/Shevchenko/Taras Shevchenko Work.jpg",
+      "profile": "images/Shevchenko/Taras Shevchenko.jpg",
+      "works": [
+        {
+          "id":"a5w1",
+          "src":"images/Shevchenko/Kateryna.jpg",
+          "title":"Kateryna",
+          "description":"Emotional scene based on his poem."
+        },
+        {
+          "id":"a5w2",
+          "src":"images/Shevchenko/Self-Portrait.jpg",
+          "title":"Self-Portrait",
+          "description":"Deep introspective realism."
+        },
+        {
+          "id":"a5w3",
+          "src":"images/Shevchenko/Kazakh Girl.jpg",
+          "title":"Kazakh Girl",
+          "description":"Sensitive ethnographic portrait."
+        },
+        {
+          "id":"a5w4",
+          "src":"images/Shevchenko/Friends.jpg",
+          "title":"Friends",
+          "description":"Depicts fellowship and hardship."
+        },
+        {
+          "id":"a5w5",
+          "src":"images/Shevchenko/Dnieper Landscape.jpg",
+          "title":"Dnieper Landscape",
+          "description":"Calm river view."
+        },
+        {
+          "id":"a5w6",
+          "src":"images/Shevchenko/Fortress of Orsk.jpg",
+          "title":"Fortress of Orsk",
+          "description":"Documenting exile life."
+        },
+        {
+          "id":"a5w7",
+          "src":"images/Shevchenko/Peasant Family.jpg",
+          "title":"Peasant Family",
+          "description":"Socially aware depiction."
+        },
+        {
+          "id":"a5w8",
+          "src":"images/Shevchenko/Gypsy Woman.jpg",
+          "title":"Gypsy Woman",
+          "description":"Strong expressive portrait."
+        },
+        {
+          "id":"a5w9",
+          "src":"images/Shevchenko/Steppe View.jpg",
+          "title":"Steppe View","description":"Open horizon and mood."
+        }
+      ]
+    },
+
+
+    {
+      "id": "artist6",
+      "name": "Ivan Marchuk",
+      "bio": "Marchuk is a contemporary Ukrainian painter known for his unique “pliontanism” technique. His works merge realism, abstraction, and emotional depth.",
+      "preview": "images/Marchuk/Ivan Marchuk Work.jpg",
+      "profile": "images/Marchuk/Ivan Marchuk.jpg",
+      "works": [
+        {
+          "id":"a6w1",
+          "src":"images/Marchuk/The Way Home.jpg",
+          "title":"The Way Home",
+          "description":"Thread-like strokes shape a rural path."
+        },
+        {
+          "id":"a6w2",
+          "src":"images/Marchuk/Awakening.jpg",
+          "title":"Awakening",
+          "description":"Light breaking through textures."
+        },
+        {
+          "id":"a6w3",
+          "src":"images/Marchuk/A Voice of My Soul.jpg",
+          "title":"A Voice of My Soul",
+          "description":"Expressive abstraction."
+        },
+        {
+          "id":"a6w4",
+          "src":"images/Marchuk/White Planet.jpg",
+          "title":"White Planet",
+          "description":"Ethereal woven surfaces."
+        },
+        {
+          "id":"a6w5",
+          "src":"images/Marchuk/The Earth Breathes.jpg",
+          "title":"The Earth Breathes",
+          "description":"Organic rhythms."
+        },
+        {
+          "id":"a6w6",
+          "src":"images/Marchuk/Dreaming Field.jpg",
+          "title":"Dreaming Field",
+          "description":"Meditative landscape."
+        },
+        {
+          "id":"a6w7",
+          "src":"images/Marchuk/Edge of Time.jpg",
+          "title":"Edge of Time",
+          "description":"Surreal temporal imagery."
+        },
+        {
+          "id":"a6w8",
+          "src":"images/Marchuk/Shadows of Forgotten Ancestors.jpg",
+          "title":"Shadows of Forgotten Ancestors",
+          "description":"Cultural memory."
+        },
+        {
+          "id":"a6w9",
+          "src":"images/Marchuk/Lonely Tree.jpg",
+          "title":"Lonely Tree",
+          "description":"Symbolic solitude."
+        }
+      ]
+    },
+
+
+    {
+      "id": "artist7",
+      "name": "Oleksandr Bohomazov",
+      "bio": "Bohomazov was a leading Ukrainian avant-gardist, experimenting with Cubo-Futurism. His theoretical writings influenced modern art development.",
+      "preview": "images/Bohomazov/Oleksandr Bohomazov Work.jpg",
+      "profile": "images/Bohomazov/Oleksandr Bohomazov.jpg",
+      "works": [
+        {
+          "id":"a7w1",
+          "src":"images/Bohomazov/Tram.jpg",
+          "title":"Tram",
+          "description":"Dynamic urban movement."},
+        {
+          "id":"a7w2",
+          "src":"images/Bohomazov/Oleksandr Bohomazov Work.jpg",
+          "title":"Sharpening the Saws",
+          "description":"Industrial energy."
+        },
+        {
+          "id":"a7w3",
+          "src":"images/Bohomazov/Landscape of Caucasus.jpg",
+          "title":"Landscape of Caucasus",
+          "description":"Angular mountain forms."
+        },
+        {
+          "id":"a7w4",
+          "src":"images/Bohomazov/Portrait of Wife.jpg",
+          "title":"Portrait of Wife",
+          "description":"Expressive modernist portrait."
+        },
+        {
+          "id":"a7w5",
+          "src":"images/Bohomazov/Woodcutters.jpg",
+          "title":"Woodcutters",
+          "description":"Rhythmic depiction of labor."
+        },
+        {
+          "id":"a7w6",
+          "src":"images/Bohomazov/Market.jpg",
+          "title":"Market",
+          "description":"Fragmented bustling scene."
+        },
+        {
+          "id":"a7w7",
+          "src":"images/Bohomazov/Tree in Winter.jpg",
+          "title":"Tree in Winter",
+          "description":"Stark graphical abstraction."
+        },
+        {
+          "id":"a7w8",
+          "src":"images/Bohomazov/Still Life.jpg",
+          "title":"Still Life",
+          "description":"Geometricized objects."
+        },
+        {
+          "id":"a7w9",
+          "src":"images/Bohomazov/Kyiv Stree.jpg",
+          "title":"Kyiv Street",
+          "description":"Pulsating urban rhythms."
+        }
+      ]
+    },
+
+
+    {
+      "id": "artist8",
+      "name": "Mykhailo Boychuk",
+      "bio": "Boychuk was a founder of the “Boychukist” school merging Byzantine style with modernism. His monumental compositions shaped Ukrainian art of the early 20th century.",
+      "preview": "images/Boychuk/Mykhailo Boychuk Work.jpg",
+      "profile": "images/Boychuk/Mykhailo Boychuk.jpg",
+      "works": [
+        {
+          "id":"a8w1",
+          "src":"images/Boychuk/Fresco Study.jpg",
+          "title":"Fresco Study",
+          "description":"Neo-Byzantine forms."
+        },
+        {
+          "id":"a8w2",
+          "src":"images/Boychuk/Peasant Woman.jpg",
+          "title":"Peasant Woman",
+          "description":"Solid solemn figure."
+        },
+        {
+          "id":"a8w3",
+          "src":"images/Boychuk/Harvest Scene.jpg",
+          "title":"Harvest Scene",
+          "description":"Heroic labor."
+        },
+        {
+          "id":"a8w4",
+          "src":"images/Boychuk/Workshop Interior.jpg",
+          "title":"Workshop Interior",
+          "description":"Artisans at work."
+        },
+        {
+          "id":"a8w5",
+          "src":"images/Boychuk/Portrait of a Worker.jpg",
+          "title":"Portrait of a Worker",
+          "description":"Spiritualized realism."
+        },
+        {
+          "id":"a8w6",
+          "src":"images/Boychuk/Collective Farm Mural Draft.jpg",
+          "title":"Collective Farm Mural Draft",
+          "description":"Monumental planning."
+        },
+        {
+          "id":"a8w7",
+          "src":"images/Boychuk/Family Group.jpg",
+          "title":"Family Group",
+          "description":"Stylized familial unity."
+        },
+        {
+          "id":"a8w8",
+          "src":"images/Boychuk/Mother and Child.jpg",
+          "title":"Mother and Child",
+          "description":"Icon-like composition."
+        },
+        {
+          "id":"a8w9",
+          "src":"images/Boychuk/Resting Peasants.jpg",
+          "title":"Resting Peasants",
+          "description":"Calm, rhythmic tableau."
+        }
+      ]
+    },
+
+    {
+      "id": "artist9",
+      "name": "Tetyana Yablonska",
+      "bio": "Yablonska was a key post-war Ukrainian painter known for expressive realism and lyrical landscapes. Her later works adopted softer, philosophical tones.",
+      "preview": "images/Yablonska/Tetyana Yablonska Work.jpg",
+      "profile": "images/Yablonska/Tetyana Yablonska.jpg",
+      "works": [
+        {
+          "id":"a9w1",
+          "src":"images/Yablonska/Bread.jpg",
+          "title":"Bread",
+          "description":"Monumental depiction of harvest."
+        },
+        {
+          "id":"a9w2",
+          "src":"images/Yablonska/Morning.jpg",
+          "title":"Morning",
+          "description":"Light-filled domestic peace."
+        },
+        {
+          "id":"a9w3",
+          "src":"images/Yablonska/Youth.jpg",
+          "title":"Youth",
+          "description":"Celebration of vitality."
+        },
+        {
+          "id":"a9w4",
+          "src":"images/Yablonska/Winter Song.jpg",
+          "title":"Winter Song",
+          "description":"Quiet snowy harmony."
+        },
+        {
+          "id":"a9w5",
+          "src":"images/Yablonska/Field Workers.jpg",
+          "title":"Field Workers",
+          "description":"Energetic everyday labor."
+        },
+        {
+          "id":"a9w6",
+          "src":"images/Yablonska/Still Life with Apples.jpg",
+          "title":"Still Life with Apples",
+          "description":"Intimate simplicity."
+        },
+        {
+          "id":"a9w7",
+          "src":"images/Yablonska/Summer.jpg",
+          "title":"Summer",
+          "description":"Bright atmospheric scene."
+        },
+        {
+          "id":"a9w8",
+          "src":"images/Yablonska/Motherhood.jpg",
+          "title":"Motherhood",
+          "description":"Warm emotional study."
+        },
+        {
+          "id":"a9w9",
+          "src":"images/Yablonska/The River.jpg",
+          "title":"The River",
+          "description":"Meditative landscape."
+        }
+      ]
+    },
+
+
+    {
+      "id": "artist10",
+      "name": "Anatol Petrytsky",
+      "bio": "Petrytsky was a modernist painter and influential stage designer. His works feature vivid color contrasts and experimental forms.",
+      "preview": "images/Petrytsky/Anatol Petrytsky Work.jpg",
+      "profile": "images/Petrytsky/Anatol Petrytsky.jpg",
+      "works": [
+        {
+          "id":"a10w1",
+          "src":"images/Petrytsky/Actress Portrait.jpg",
+          "title":"Actress Portrait",
+          "description":"Bold expressiveness."
+        },
+        {
+          "id":"a10w2",
+          "src":"images/Petrytsky/Set for Mina Mazailo.jpg",
+          "title":"Set for Mina Mazailo",
+          "description":"Geometric theatrical space."
+        },
+        {
+          "id":"a10w3",
+          "src":"images/Petrytsky/Harlequin.jpg",
+          "title":"Harlequin",
+          "description":"Vibrant character design."
+        },
+        {
+          "id":"a10w4",
+          "src":"images/Petrytsky/Stage Costume Sketch.jpg",
+          "title":"Stage Costume Sketch",
+          "description":"Dynamic silhouette."
+        },
+        {
+          "id":"a10w5",
+          "src":"images/Petrytsky/Ukrainian Dancer.jpg",
+          "title":"Ukrainian Dancer",
+          "description":"Motion captured through form."
+        },
+        {
+          "id":"a10w6",
+          "src":"images/Petrytsky/Still Life with Mask.jpg",
+          "title":"Still Life with Mask",
+          "description":"Symbolic elements."
+        },
+        {
+          "id":"a10w7",
+          "src":"images/Petrytsky/Carnival Scen.jpg",
+          "title":"Carnival Scene",
+          "description":"Festive abstraction."
+        },
+        {
+          "id":"a10w8",
+          "src":"images/Petrytsky/Portrait of a Poet.jpg",
+          "title":"Portrait of a Poet",
+          "description":"Strong psychological depth."
+        },
+        {
+          "id":"a10w9",
+          "src":"images/Petrytsky/Circus Performers.jpg",
+          "title":"Circus Performers",
+          "description":"Rhythmic composition."
+        }
+      ]
+    },
+
+
+    {
+      "id": "artist11",
+      "name": "Vasyl Krychevsky",
+      "bio": "Krychevsky was an architect, graphic artist, and designer of the Ukrainian national emblem. He pioneered modern Ukrainian style in arts and architecture.",
+      "preview": "images/Krychevsky/Vasyl Krychevsky Work.jpg",
+      "profile": "images/Krychevsky/Vasyl Krychevsky.jpg",
+      "works": [
+        {
+          "id":"a11w1",
+          "src":"images/Krychevsky/Ukrainian Trident Design.jpg",
+          "title":"Ukrainian Trident Design",
+          "description":"Symbolic national identity."
+        },
+        {
+          "id":"a11w2",
+          "src":"images/Krychevsky/Village House Sketch.jpg",
+          "title":"Village House Sketch",
+          "description":"Ethnographic architectural style."
+        },
+        {
+          "id":"a11w3",
+          "src":"images/Krychevsky/Carpathian Landscape.jpg",
+          "title":"Carpathian Landscape",
+          "description":"Warm natural scene."
+        },
+        {
+          "id":"a11w4",
+          "src":"images/Krychevsky/Film Poster Design.jpg",
+          "title":"Film Poster Design",
+          "description":"Early Ukrainian cinema aesthetics."
+        },
+        {
+          "id":"a11w5",
+          "src":"images/Krychevsky/Decorative Panel.jpg",
+          "title":"Decorative Panel",
+          "description":"Folk-inspired motifs."
+        },
+        {
+          "id":"a11w6",
+          "src":"images/Krychevsky/Kyiv Street.jpg",
+          "title":"Kyiv Street",
+          "description":"Urban watercolor."
+        },
+        {
+          "id":"a11w7",
+          "src":"images/Krychevsky/Book Cover Design.jpg",
+          "title":"Book Cover Design",
+          "description":"Stylized typography."
+        },
+        {
+          "id":"a11w8",
+          "src":"images/Krychevsky/Historic Costume Study.jpg",
+          "title":"Historic Costume Study",
+          "description":"Detailed cultural research."
+        },
+        {
+          "id":"a11w9",
+          "src":"images/Krychevsky/Rural Church.jpg",
+          "title":"Rural Church",
+          "description":"Vernacular architecture."
+        }
+      ]
+    },
+
+
+    {
+      "id": "artist12",
+      "name": "Oleksandr Murashko",
+      "bio": "Murashko was a major Ukrainian modernist known for psychological portraiture and luminous color. He bridged realism and impressionism.",
+      "preview": "images/Murashko/Oleksandr Murashko Work.jpg",
+      "profile": "images/Murashko/Oleksandr Murashko.jpg",
+      "works": [
+        {
+          "id":"a12w1",
+          "src":"images/Murashko/Girl in a Red Hat.jpg",
+          "title":"Girl in a Red Hat",
+          "description":"Iconic expressive portrait."
+        },
+        {
+          "id":"a12w2",
+          "src":"images/Murashko/Carousel.jpg",
+          "title":"Carousel",
+          "description":"Bright lively movement."
+        },
+        {
+          "id":"a12w3",
+          "src":"images/Murashko/Portrait of a Woman.jpg",
+          "title":"Portrait of a Woman",
+          "description":"Emotional depth."
+        },
+        {
+          "id":"a12w4",
+          "src":"images/Murashko/Italian Courtyard.jpg",
+          "title":"Italian Courtyard",
+          "description":"Sunlit composition."
+        },
+        {
+          "id":"a12w5",
+          "src":"images/Murashko/Street in Kyiv.jpg",
+          "title":"Street in Kyiv",
+          "description":"Urban impression."
+        },
+        {
+          "id":"a12w6",
+          "src":"images/Murashko/Mother and Child.jpg",
+          "title":"Mother and Child",
+          "description":"Warm lyricism."
+        },
+        {
+          "id":"a12w7",
+          "src":"images/Murashko/Still Life with Flowers.jpg",
+          "title":"Still Life with Flowers",
+          "description":"Vibrant colors."
+        },
+        {
+          "id":"a12w8",
+          "src":"images/Murashko/Ukrainian Girl.jpg",
+          "title":"Ukrainian Girl",
+          "description":"Combining tradition and modernity."
+        },
+        {
+          "id":"a12w9",
+          "src":"images/Murashko/Self-Portrait.jpg",
+          "title":"Self-Portrait",
+          "description":"Reflective presence."
+        }
+      ]
+    },
+
+
+    {
+      "id": "artist13",
+      "name": "Oksana Mas",
+      "bio": "Mas is a contemporary Ukrainian conceptual artist known for installations using wood, beads, and symbolic patterns. Her works explore identity, memory, and collective experience.",
+      "preview": "images/Mas/Oksana Mas Work.jpg",
+      "profile": "images/Mas/Oksana Mas.jpg",
+      "works": [
+        {
+          "id":"a13w1",
+          "src":"images/Mas/Post-vs-Proto-Renaissance Eggs.jpg",
+          "title":"Post-vs-Proto-Renaissance Eggs",
+          "description":"Vast installation of painted wooden beads."
+        },
+        {
+          "id":"a13w2",
+          "src":"images/Mas/Mind Map.jpg",
+          "title":"Mind Map",
+          "description":"Abstract neural-like composition."
+        },
+        {
+          "id":"a13w3",
+          "src":"images/Mas/Artivation Panel.jpg",
+          "title":"Artivation Panel",
+          "description":"Geometric modular structure."
+        },
+        {
+          "id":"a13w4",
+          "src":"images/Mas/Mirror World.jpg",
+          "title":"Mirror World",
+          "description":"Reflective conceptual space."
+        },
+        {
+          "id":"a13w5",
+          "src":"images/Mas/DNA of Culture.jpg",
+          "title":"DNA of Culture",
+          "description":"Pattern exploring heritage."
+        },
+        {
+          "id":"a13w6",
+          "src":"images/Mas/Black Flower.jpg",
+          "title":"Black Flower",
+          "description":"Symbolic sculptural form."
+        },
+        {
+          "id":"a13w7",
+          "src":"images/Mas/Genesis Grid.jpg",
+          "title":"Genesis Grid",
+          "description":"Abstract system of signs."
+        },
+        {
+          "id":"a13w8",
+          "src":"images/Mas/Pulse of Society.jpg",
+          "title":"Pulse of Society",
+          "description":"Interactive light concept."
+        },
+        {
+          "id":"a13w9",
+          "src":"images/Mas/Ritual Object.jpg",
+          "title":"Ritual Object",
+          "description":"Hybrid symbolic form."
+        }
+      ]
+    },
+
+
+    {
+      "id": "artist14",
+      "name": "Zhanna Kadyrova",
+      "bio": "Kadyrova is a contemporary multimedia artist known for using tile, concrete, and industrial materials. Her works comment on urban life, transformation, and social processes.",
+      "preview": "images/Kadyrova/Zhanna Kadyrova Work.jpg",
+      "profile": "images/Kadyrova/Zhanna Kadyrova.jpg",
+      "works": [
+        {
+          "id":"a14w1",
+          "src":"images/Kadyrova/Market.jpg",
+          "title":"Market (Food Series)",
+          "description":"Ceramic imitations of food."
+        },
+        {
+          "id":"a14w2",
+          "src":"images/Kadyrova/Second Hand.jpg",
+          "title":"Second Hand",
+          "description":"Clothing shapes made of tiles."
+        },
+        {
+          "id":"a14w3",
+          "src":"images/Kadyrova/Road Sign.jpg",
+          "title":"Road Sign",
+          "description":"Recontextualized infrastructure symbols."
+        },
+        {
+          "id":"a14w4",
+          "src":"images/Kadyrova/Fragment.jpg",
+          "title":"Fragment",
+          "description":"Architectural remnants re-imagined."
+        },
+        {
+          "id":"a14w5",
+          "src":"images/Kadyrova/Fountain.jpg",
+          "title":"Fountain",
+          "description":"Sculpted industrial forms."
+        },
+        {
+          "id":"a14w6",
+          "src":"images/Kadyrova/Tile Landscape.jpg",
+          "title":"Tile Landscape",
+          "description":"Modular patterning."
+        },
+        {
+          "id":"a14w7",
+          "src":"images/Kadyrova/Concrete Sculpture.jpg",
+          "title":"Concrete Sculpture",
+          "description":"Rough minimalist form."
+        },
+        {
+          "id":"a14w8",
+          "src":"images/Kadyrova/Urban Relief.jpg",
+          "title":"Urban Relief",
+          "description":"Mapping city textures."
+        },
+        {
+          "id":"a14w9",
+          "src":"images/Kadyrova/Cut Block.jpg",
+          "title":"Cut Block",
+          "description":"Material transformation study."
+        }
+      ]
+    },
+
+
+    {
+      "id": "artist15",
+      "name": "Alevtina Kakhidze",
+      "bio": "Malevich was a pioneering avant-garde artist born in Kyiv and a founder of Suprematism. His geometric abstractions revolutionized modern art and influenced generations of artists worldwide.",
+      "preview": "images/Kakhidze/Alevtina Kakhidze Work.jpg",
+      "profile": "images/Kakhidze/Alevtina Kakhidze.jpg",
+      "works": [
+        {
+          "id":"a15w1",
+          "src":"images/Kakhidze/Plant Diary.jpg",
+          "title":"Plant Diary",
+          "description":"Illustrations reflecting care and ethics."
+        },
+        {
+          "id":"a15w2",
+          "src":"images/Kakhidze/Mothers Garden.jpg",
+          "title":"Mothers Garden",
+          "description":"Emotional narrative drawing."
+        },
+        {
+          "id":"a15w3",
+          "src":"images/Kakhidze/Borders.jpg",
+          "title":"Borders",
+          "description":"Lines exploring personal/geopolitical barriers."
+        },
+        {
+          "id":"a15w4",
+          "src":"images/Kakhidze/Shopping List.jpg",
+          "title":"Shopping List",
+          "description":"Minimalist critique of consumption."
+        },
+        {
+          "id":"a15w5",
+          "src":"images/Kakhidze/Notes from the East.jpg",
+          "title":"Notes from the East",
+          "description":"Documentary-style sketches."
+        },
+        {
+          "id":"a15w6",
+          "src":"images/Kakhidze/Conversation Piece.jpg",
+          "title":"Conversation Piece",
+          "description":"Dialog-based artwork."
+        },
+        {
+          "id":"a15w7",
+          "src":"images/Kakhidze/Invisible Structures.jpg",
+          "title":"Invisible Structures",
+          "description":"Social systems visualized."
+        },
+        {
+          "id":"a15w8",
+          "src":"images/Kakhidze/Daily Routine.jpg",
+          "title":"Daily Routine",
+          "description":"Intimate observational drawing."
+        },
+        {
+          "id":"a15w9",
+          "src":"images/Kakhidze/Witness.jpg",
+          "title":"Witness",
+          "description":"Artwork capturing lived testimony."
+        }
+      ]
+    }
+  ]
+}
